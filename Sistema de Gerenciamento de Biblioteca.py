@@ -137,4 +137,4 @@ while controle == 1:
 #SAIR 5ª opção do menu principal, tem a finalidade de finalizar o loop principal do programa e assim encerrar sua execução, exibindo um retorne de finalização.
     elif menu_op == 5:
         controle = 0
-print("Programa finalizado!!!")
+print("Programa finalizado!!!!!")
